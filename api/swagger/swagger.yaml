@@ -6,7 +6,7 @@ info:
 paths:
   /laptops:
     get:
-      summary: Retorna todos os produtos de desktops ordenados por preço
+      summary: Retorna todos os produtos de desktops
       responses:
         '200':
           description: Lista de produtos de desktops

@@ -1,6 +1,8 @@
+// Importa o módulo Express e a função getLaptops do controlador
 const express = require('express');
 const { getLaptops } = require('../controllers/laptopsController');
 
+// Cria um roteador Express para definir as rotas
 const router = express.Router();
 
 /**
@@ -52,6 +54,8 @@ const router = express.Router();
  *                     type: string
  *                     description: URL da página do produto
  */
+// Define a rota GET para /laptops e associa à função getLaptops no controlador
 router.get('/', getLaptops);
 
+// Exporta o roteador para que possa ser usado na aplicação principal
 module.exports = router;
