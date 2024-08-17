@@ -37,11 +37,12 @@ GET /laptops
 | Parametro | Tipo     | Descrição                |
 | :-------- | :------- | :------------------------- |
 | `name`   | `string` | Nome do produto    |
-| `price`  | `string` | Preço do produto  |
-| `description`| `string` | Avaliação do produto (em número de estrelas) |
-| `rating`| `string` | **Required**. Your message |
+| `price`  | `number` | Preço do produto  |
+| `description`| `string` | Descrição do produto |
+| `rating`| `integer` | Avaliação do produto (em número de estrelas) |
+| `reviews`| `integer` | Quantidade de comentários |
 | `image`| `string` | URL da imagem do produto |
-| `hddOptions`| `string` | Opções de HDD e preços associados |
+| `hddOptions`| `array` | Opções de HDD e preços associados |
 | `link`| `string` | URL da página do produto |
 
 ## ➤ Estrutura do Projeto
