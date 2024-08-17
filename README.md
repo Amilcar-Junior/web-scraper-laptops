@@ -67,3 +67,4 @@ web-scraper-laptops/<br/>
 #### Amílcar Júnior
 - Linkedin: [amilcar-junior](https://www.linkedin.com/in/amilcar-junior/)
 - Github: [amilcar-junior](https://github.com/Amilcar-Junior)
+- Gmail: [amilcarjunior2000@gmail.com](mailto:amilcarjunior2000@gmail.com)
