@@ -15,7 +15,12 @@ Este projeto é uma API para coletar e fornecer informações sobre produtos de 
 - [Cheerio](https://cheerio.js.org) : Biblioteca para manipulação de HTML e web scraping.
 - [Swagger](https://swagger.io) : Ferramenta para documentação da API.
 
-## ➤ Install Dependencies    
+## ➤ Clone o Repositorio    
+```bash
+git clone https://github.com/Amilcar-Junior/web-scraper-laptops.git
+```
+
+## ➤ Instale as Dependencias   
 ```bash
 npm install
 ```
@@ -24,7 +29,7 @@ npm install
 npm run start
 ```
 
-## ➤ A documentação Swagger 
+## ➤ A Documentação Swagger 
 ```bash
 http://localhost:3000/api-docs
 ```
