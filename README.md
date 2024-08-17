@@ -63,7 +63,7 @@ web-scraper-laptops/<br/>
 ├── package.json<br/>
 └── README.md<br/>
 
-## 🙇 Author
+## 🙇 Autor
 #### Amílcar Júnior
 - Linkedin: [amilcar-junior](https://www.linkedin.com/in/amilcar-junior/)
 - Github: [amilcar-junior](https://github.com/Amilcar-Junior)
