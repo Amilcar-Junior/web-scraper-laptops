@@ -34,7 +34,7 @@ http://localhost:3000/api-docs
 GET /laptops
 ```
 
-| Parameter | Type     | Description                |
+| Parametro | Tipo     | Descrição                |
 | :-------- | :------- | :------------------------- |
 | `name`   | `string` | Nome do produto    |
 | `price`  | `string` | Preço do produto  |
