@@ -65,6 +65,13 @@ web-scraper-laptops/<br/>
 
 ## 🙇 Autor
 #### Amílcar Júnior
-- Linkedin: [amilcar-junior](https://www.linkedin.com/in/amilcar-junior/)
-- Github: [amilcar-junior](https://github.com/Amilcar-Junior)
-- Gmail: [amilcarjunior2000@gmail.com](mailto:amilcarjunior2000@gmail.com)
+
+<a href="https://www.linkedin.com/in/amilcar-junior/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:amilcarjunior2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/mikamikaus/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
